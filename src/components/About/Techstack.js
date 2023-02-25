@@ -8,11 +8,16 @@ import {
   DiMongodb,
   DiPython,
   DiGit,
+  DiRuby,
+  DiLaravel
 } from "react-icons/di";
 import {
   SiPytorch,
   SiFirebase,
   SiNextdotjs,
+  SiAngularjs,
+  SiDjango,
+  SiGraphql
 } from "react-icons/si";
 
 function Techstack() {
@@ -47,6 +52,21 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPytorch />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiRuby />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiLaravel />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAngularjs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDjango />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGraphql />
       </Col>
     </Row>
   );
