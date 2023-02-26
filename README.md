@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://kaiser3029.vercel.app/" target="_blank">kaiser.tech</a>
+  <a href="https://lk-portfolio.onrender.com/" target="_blank">kaiser.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img2.png" />
@@ -31,7 +31,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://kaiser3029.vercel.app/" target="_blank">kaiser.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://lk-portfolio.onrender.com/" target="_blank">kaiser.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
